@@ -1,0 +1,44 @@
+#body1{
+	height:75%;
+	width:30%;
+	background-color:white;
+	border:10%;
+	border-style:ridge;
+}
+
+#innertop{
+	height:10%;
+	width:99%;
+	border-style:solid;
+	border-color:#4267B2;
+	background-color:#4267B2;
+	line-height:230%;
+	color:white;
+	font-size:150%;
+	text-align:left;
+}
+#innertop1{
+	text-align:center;
+	line-height:0%
+}
+
+.arrow {
+  border: solid white;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 10px;
+}
+
+
+.left{
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  
+}
+#heading{
+	text-align:center;
+	font-family:Helvetica;
+}
+#replace{
+	color:white;
+}
